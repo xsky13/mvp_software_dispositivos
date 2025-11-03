@@ -1,5 +1,7 @@
 # MVP sistema de manejo dispositivos IoT
 
+Antes de correr instalar broker de mqtt mosquitto.
+
 Servicios:
 
 * Alertas: <https://github.com/xsky13/dispositivos_alert_manager>
