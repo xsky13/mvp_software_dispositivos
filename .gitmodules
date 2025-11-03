@@ -1,0 +1,12 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/xsky13/dispositivos_gateway
+[submodule "dispositivo_CRUD"]
+	path = dispositivo_CRUD
+	url = https://github.com/lenny-amin/dispositivo_CRUD
+[submodule "dispositivos_usuarios"]
+	path = dispositivos_usuarios
+	url = https://github.com/Abiel2310/dispositivos_usuarios.git
+[submodule "alertasV1"]
+	path = alertasV1
+	url = https://github.com/xsky13/dispositivos_alert_manager

@@ -1,0 +1,13 @@
+alertasV1/.vscode/
+alertasV1/target/
+alertasV1/.env
+
+dispositivos_usuarios/.vscode/
+dispositivos_usuarios/target/
+
+dispositivo_CRUD/.env
+dispositivo_CRUD/.vscode/
+dispositivo_CRUD/target/
+
+generador_alertas/node_modules/
+test-alerts-frontend/node_modules/
