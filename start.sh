@@ -20,6 +20,6 @@ mosquitto -c ./alerts_processed_queue.conf &
 # start gateway
 (cd api-gateway && node --watch index.js &)
 
-(cd test-alerts-frontend && npm run dev &)
+(cd cliente-dispositivos && npm run dev &)
 
 wait

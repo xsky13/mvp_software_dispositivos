@@ -10,3 +10,6 @@
 [submodule "alertasV1"]
 	path = alertasV1
 	url = https://github.com/xsky13/dispositivos_alert_manager
+[submodule "cliente-dispositivos"]
+	path = cliente-dispositivos
+	url = https://github.com/xsky13/dispositivos_cliente
